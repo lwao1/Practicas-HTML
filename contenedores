@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+  <meta charset="utf-8">
+	<title>Hoja de Practicas HTML</title>
+ </head>
+ <body>
+ <h1>CONTENEDORES</h1>
+		<div>
+			<a class="producto_imagen thumbnail" href="pruducto.html">
+				<img src="imagen.jpg">
+				<h3>producto1</h3>
+			</a>
+			<p class="precio-producto">
+				<span>S/. 559.00</span>
+				<span>S/.899.00</span>
+
+			</p>
+			<a class="agregar-carrito" href="agregar-carrito.html">
+				agregar carrito
+			</a>
+		</div>
+
+
+		<!-- <h2>HEADER</h2> -->
+
+		<header>
+			<h1>
+				<a href="/index.html"><img src="imagen_logo.jpg">
+				</a>
+			</h1>
+			<nav>
+				<ul>
+					<li>
+						<a href="http/:Facebook.com"><img alt="Icono de facebook" src="facebook.jpg"></a>
+					</li>
+					<li>
+						<a href="http/:Instagram.com"><img alt="Icono de Instagram" src="Instagram.jpg"></a>
+					</li>
+					<li>
+						<a href="http/:Twetter.com"><img alt="Icono de Twetter" src="facebook.jpg"></a>
+					</li>
+				</ul>
+			</nav>
+
+			<!-- Barra de navegacion-->
+			<nav>
+				<ul>
+					<li> 
+						<a href="Mujeres.html">Mujeres</a>
+					</li>
+					<li>
+						<a href="Niños.html">Niños</a>
+					</li>
+					<li>
+						<a href="Smart.html">Smart</a>
+					</li>
+							
+					<li>
+						<a href="Otros">Otros</a>
+					</li>
+					<li>
+						<a href="carrito.html">Carrito</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+		<!-- Section:Slider-->
+		<section>
+			<img alt="Banner Slider" src="banner-slider.jpg">	
+		</section>
+
+
+		<footer>
+			<p>Contactenos al Whatssap: +51 993 923 765</p>
+		</footer>
+ </body>
+ </html>
