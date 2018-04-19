@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>	
+		<meta charset="utf-8">
+		<title>El Comercio</title>
+	</head>
+	<body>
+		<header>
+			<h1>
+				<a href=""><img src="logo_ElComercio.jpg" alt="logo_ElComercio"></a>
+
+			</h1>
+			<nav>
+				<ul>
+					<li> <a href="Lo_ultimo.html">Lo Ultimo</a></li>
+					<li> <a href="Opinion.html">Opinion</a></li>
+					<li> <a href="Politica">Politica</a></li>
+					<li> <a href="Peru.html">Peru</a></li>
+					<li> <a href="Lima.html">Lima</a></li>
+					<li> <a href="Mundo.html">Mundo</a></li>
+					<li> <a href="Economia.html">Economia</a></li>
+					<li> <a href="Luces.html">Luces</a></li>
+					<li> <a href="DT.html">DT</a></li>
+					<li> <a href="Tecno.hmtl">Tecno</a></li>
+					<li> <a href="Ver_mas.html">Ver Mas</a></li>
+					<li><a href="Ver_mas.html"><img src="logo_VerMas.jpg" alt="logo_VerMas"></a> </li>
+				</ul>
+			</nav>
+		</header>
+			<article>
+				<div>
+					<h2 class="Descripcion_Titulo">Politica</h2>
+					<p class="TituloDeNoticia">Lorem ipsum dolor sit amet</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero eos tempora sit quaerat officiis, natus repudiandae officia totam, expedita aliquid, quisquam doloremque voluptatem! Omnis rerum a quia rem, necessitatibus culpa?</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium iure, officia accusamus voluptatibus beatae, ex corrupti excepturi libero nulla numquam maiores! Quisquam laboriosam quidem necessitatibus tenetur voluptas voluptatum fugiat sint.</p>
+				</div>
+				<div>
+					<img src="Foto_de_Noticia" alt="Ollanta Humala">
+					<p class="Descripcion_imagen">descripcion de la foto</p>
+					<br>
+					<p class="Nombre_Escritor">Readccion DC</p>
+					<br>
+					<p><a href="Pagina_Web.com">Lorem ipsum dolor</a> dolor sit amet, consectetur adipisicing elit. Quis fugit totam, aliquam illo eaque quas aperiam quod nesciunt animi dolores quae explicabo doloremque hic ratione error <em>possimus beatae</em> minima libero.</p>
+					<br>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat similique, perspiciatis necessitatibus, fugit minima earum maxime delectus labore doloremque esse quis nemo nihil, quo rem maiores <em>consequuntur adipisci</em>, dicta vel?</p>
+					<br>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad laborum, maxime ab dicta soluta nostrum omnis, ea, optio nam, accusantium at minus ipsum itaque eligendi reiciendis? Nesciunt accusantium deserunt, quas?</p>
+					<br>
+					<p><a href="PaginaWeb.com">Lorem ipsum dolor</a>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aut deserunt quam cum tenetur autem odio nihil quasi quaerat eum, eius minima consequatur <em>vel doloremque</em>vel doloremque totam sint iste nulla obcaecati.</p>
+				</div>
+			</article>
+			<aside>
+				<div>
+					<h3>Lo mas leido</h3>
+					<a href="logo_ElComercio"> <img src="logo_ElComercio.jpg" alt="logo_ElComercio"></a>
+				</div>
+				<div>
+					<ul>
+						<li>
+							<a href="Facebook.com"><img src="Logo_Facebook.jpg" alt="Logo_Facebook"></a>
+							<a href="Instagram.com"><img src="Logo_Instagram.jpg" alt="Logo_Instagram"></a>
+							<img src="Imagen_Noticia.jpg" alt="Foto_de_Noticia">
+							<h4>Lorem ipsum dolor sit amet, consectetur adipisic</h4>
+						</li>
+						<li>
+							<a href="Facebook.com"><img src="Logo_Facebook.jpg" alt="Logo_Facebook"></a>
+							<a href="Instagram.com"><img src="Logo_Instagram.jpg" alt="Logo_Instagram"></a>
+							<img src="Imagen_Noticia.jpg" alt="Foto_de_Noticia">
+							<h4>Lorem ipsum dolor sit amet, consectetur adipisic</h4>
+						</li>
+						<li>
+							<a href="Facebook.com"><img src="Logo_Facebook.jpg" alt="Logo_Facebook"></a>
+							<a href="Instagram.com"><img src="Logo_Instagram.jpg" alt="Logo_Instagram"></a>
+							<img src="Imagen_Noticia.jpg" alt="Foto_de_Noticia">
+							<h4>Lorem ipsum dolor sit amet, consectetur adipisic</h4>
+						</li>
+						<li>
+							<a href="Facebook.com"><img src="Logo_Facebook.jpg" alt="Logo_Facebook"></a>
+							<a href="Instagram.com"><img src="Logo_Instagram.jpg" alt="Logo_Instagram"></a>
+							<img src="Imagen_Noticia.jpg" alt="Foto_de_Noticia">
+							<h4>Lorem ipsum dolor sit amet, consectetur adipisic</h4>
+						</li>
+						<li>
+							<a href="Facebook.com"><img src="Logo_Facebook.jpg" alt="Logo_Facebook"></a>
+							<a href="Instagram.com"><img src="Logo_Instagram.jpg" alt="Logo_Instagram"></a>
+							<img src="Imagen_Noticia.jpg" alt="Foto_de_Noticia">
+							<h4>Lorem ipsum dolor sit amet, consectetur adipisic</h4>
+						</li>
+
+					</ul>
+				</div>
+			</aside>
+		
+	</body>
+</html>
