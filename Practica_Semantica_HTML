@@ -29,10 +29,11 @@
 		</header>
 			<article>
 				<div>
-					<h2 class="Descripcion_Titulo">Politica</h2>
-					<p class="TituloDeNoticia">Lorem ipsum dolor sit amet</p>
+					<span class="categoria">Politica</span>
+					<h1 class="TituloDeNoticia">Lorem ipsum dolor sit amet</h1>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero eos tempora sit quaerat officiis, natus repudiandae officia totam, expedita aliquid, quisquam doloremque voluptatem! Omnis rerum a quia rem, necessitatibus culpa?</p>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium iure, officia accusamus voluptatibus beatae, ex corrupti excepturi libero nulla numquam maiores! Quisquam laboriosam quidem necessitatibus tenetur voluptas voluptatum fugiat sint.</p>
+					<time datetime="2017-12-03T19:00:00" pubdate> 10/10/2027 | 19:00:00 pm</time>
 				</div>
 				<div>
 					<img src="Foto_de_Noticia" alt="Ollanta Humala">
