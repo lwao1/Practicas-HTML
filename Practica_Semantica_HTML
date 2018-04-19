@@ -6,10 +6,10 @@
 	</head>
 	<body>
 		<header>
-			<h1>
+			<h2>
 				<a href=""><img src="logo_ElComercio.jpg" alt="logo_ElComercio"></a>
 
-			</h1>
+			</h2>
 			<nav>
 				<ul>
 					<li> <a href="Lo_ultimo.html">Lo Ultimo</a></li>
